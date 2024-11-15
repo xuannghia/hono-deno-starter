@@ -1,0 +1,20 @@
+# DEV
+.idea/
+.vscode/
+
+# BUILD
+dist/
+build/
+out/
+
+# ENV
+.env
+.env.production
+.env.*.local
+
+# LOGS
+logs/
+*.log
+
+# MISC
+.DS_Store
